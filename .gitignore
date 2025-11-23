@@ -1,0 +1,33 @@
+# Virtual environment
+spam_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Dataset files (optional - you might want to keep these)
+data/processed_spam_data.csv
+
+# Model files (optional - they can be regenerated)
+models/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
